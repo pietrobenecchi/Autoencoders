@@ -17,4 +17,7 @@ https://www.tensorflow.org/tutorials/generative/autoencoder
 
 https://github.com/AarnoStormborn/anomaly-detection-with-autoencoder
 
+_____TO ADD NEW TECNIQUES IMPROVE DATASET
+https://medium.com/@artur.shaikhatarov/anomaly-detection-using-recurrent-neural-networks-autoencoders-41bdf52d7b53
+
 OUR PROJECT: https://colab.research.google.com/drive/13WRod5M63pFQqXi2bkIsluXtHBTd58uX?usp=sharing
