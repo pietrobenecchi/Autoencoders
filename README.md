@@ -16,3 +16,5 @@ https://medium.com/@weidagang/demystifying-anomaly-detection-with-autoencoder-ne
 https://www.tensorflow.org/tutorials/generative/autoencoder
 
 https://github.com/AarnoStormborn/anomaly-detection-with-autoencoder
+
+OUR PROJECT: https://colab.research.google.com/drive/13WRod5M63pFQqXi2bkIsluXtHBTd58uX?usp=sharing
