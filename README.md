@@ -2,8 +2,6 @@
 TODO:
 1. LSMT (Vu enjoy!) this can help you: https://medium.com/@artur.shaikhatarov/anomaly-detection-using-recurrent-neural-networks-autoencoders-41bdf52d7b53
 2. check GAN, why accuracy is so low?
-3. variational autoencoders. The loss function is not at all correct --> implement KL_divergence
-4. Finish evaluation part. we can simplify the code and create a dictionary on all datasets, iterate on it, and plot all data at once!
 
 5. create paper and summirize some content in this repo
    
