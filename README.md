@@ -2,7 +2,7 @@
 TODO:
 1. LSMT (Vu enjoy!) this can help you: https://medium.com/@artur.shaikhatarov/anomaly-detection-using-recurrent-neural-networks-autoencoders-41bdf52d7b53
 2. check GAN, why accuracy is so low?
-
+3. possible refactor: perform early stopping
 5. create paper and summirize some content in this repo
    
 Dataset: https://www.stratosphereips.org/datasets-iot23
