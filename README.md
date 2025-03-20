@@ -1,17 +1,17 @@
 # Anomaly detection with autoencoders
-TODO:
-1. LSMT: almost done, understand logic --> comment some code
-2. check GAN, why accuracy is so low? Not a real problem anyway
-3. why too few TP?
-5. create paper and summirize some content in this repo
-   
-Dataset: https://www.stratosphereips.org/datasets-iot23
 
-Previous project: https://github.com/yliang725/Anomaly-Detection-IoT23?tab=readme-ov-file
+# Overview
 
-Previous research project: https://github.com/yliang725/Anomaly-Detection-IoT23?tab=readme-ov-file
+This project focuses on building different types of autoencoders for anomaly detection. The goal is to train these autoencoders to reconstruct normal data sequences accurately while identifying anomalies based on reconstruction errors.
 
+# Features
 
+Multiple Autoencoder Architectures:
 
+Vanilla Autoencoder: A simple feedforward autoencoder.
 
-OUR PROJECT: https://colab.research.google.com/drive/13WRod5M63pFQqXi2bkIsluXtHBTd58uX?usp=sharing
+Variational Autoencoder (VAE): Uses a probabilistic approach with mean and log variance vectors of dimension 3.
+
+LSTM-based Autoencoder: Captures temporal dependencies in sequential data.
+
+GAN-based Autoencoder: Utilizes a Generative Adversarial Network (GAN) for anomaly detection.
