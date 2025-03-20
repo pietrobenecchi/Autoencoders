@@ -8,10 +8,14 @@ This project focuses on building different types of autoencoders for anomaly det
 
 Multiple Autoencoder Architectures:
 
-Vanilla Autoencoder: A simple feedforward autoencoder.
+# Vanilla Autoencoder:
+A simple feedforward autoencoder.
 
-Variational Autoencoder (VAE): Uses a probabilistic approach with mean and log variance vectors of dimension 3.
+# Variational Autoencoder (VAE):
+Uses a probabilistic approach with mean and log variance vectors of dimension 3.
 
-LSTM-based Autoencoder: Captures temporal dependencies in sequential data.
+# LSTM-based Autoencoder: 
+Captures temporal dependencies in sequential data.
 
-GAN-based Autoencoder: Utilizes a Generative Adversarial Network (GAN) for anomaly detection.
+# GAN-based Autoencoder:
+Utilizes a Generative Adversarial Network (GAN) for anomaly detection.
