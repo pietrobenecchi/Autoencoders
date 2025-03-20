@@ -1,5 +1,9 @@
 # Anomaly detection with autoencoders
 
+Here you can find: 
+code implementation : 
+report: https://www.overleaf.com/project/67dbf1b30cf4074a0dce8a8a
+
 # Overview
 
 This project focuses on building different types of autoencoders for anomaly detection. The goal is to train these autoencoders to reconstruct normal data sequences accurately while identifying anomalies based on reconstruction errors.
