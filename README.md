@@ -4,10 +4,6 @@
 
 This project focuses on building different types of autoencoders for anomaly detection. The goal is to train these autoencoders to reconstruct normal data sequences accurately while identifying anomalies based on reconstruction errors.
 
-# Features
-
-Multiple Autoencoder Architectures:
-
 # Vanilla Autoencoder:
 A simple feedforward autoencoder.
 
